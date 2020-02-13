@@ -4,3 +4,4 @@
 
 (function-from-demo-package-a)
 (2nd-function-from-demo-package-a)
+(3rd-function-from-demo-package-a)
